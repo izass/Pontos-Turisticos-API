@@ -1,0 +1,4 @@
+= Pontos Turísticos API
+Isaac Moreira Barbosa <izass1312@gmail.com>
+
+API de pontos turísticos utilizando Django REST Framework construída seguindo o tutorial https://www.udemy.com/share/101zZyAEoedFpbRH4=/
